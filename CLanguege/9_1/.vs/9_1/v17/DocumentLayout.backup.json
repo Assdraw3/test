@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qingj\\Desktop\\CLanguege\\9_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42B8EF38-1234-40CD-AE10-DF5A52062C6B}|9_1.vcxproj|C:\\Users\\qingj\\Desktop\\CLanguege\\9_1\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42B8EF38-1234-40CD-AE10-DF5A52062C6B}|9_1.vcxproj|solutionrelative:test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B8EF38-1234-40CD-AE10-DF5A52062C6B}|9_1.vcxproj|C:\\Users\\qingj\\Desktop\\CLanguege\\9_1\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42B8EF38-1234-40CD-AE10-DF5A52062C6B}|9_1.vcxproj|solutionrelative:test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\Users\\qingj\\Desktop\\CLanguege\\9_1\\test.c",
+              "RelativeDocumentMoniker": "test.c",
+              "ToolTip": "C:\\Users\\qingj\\Desktop\\CLanguege\\9_1\\test.c*",
+              "RelativeToolTip": "test.c*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-01T03:51:31.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.h",
+              "DocumentMoniker": "C:\\Users\\qingj\\Desktop\\CLanguege\\9_1\\test.h",
+              "RelativeDocumentMoniker": "test.h",
+              "ToolTip": "C:\\Users\\qingj\\Desktop\\CLanguege\\9_1\\test.h",
+              "RelativeToolTip": "test.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T03:51:15.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

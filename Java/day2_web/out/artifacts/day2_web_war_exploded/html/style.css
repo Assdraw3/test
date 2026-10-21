@@ -1,0 +1,65 @@
+/* “*”可以选择所有元素，“typename”可以选择该类元素，清除所有的外边距和内边距，可以更好地对网页进行编辑 */
+       
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body
+{
+    
+    background: url(https://image.baidu.com/search/down?thumburl=https://weibo.com&url=https://wx1.sinaimg.cn/large/006RKGBpgy1h1t0stra6mj30u00mxjtf.jpg);
+    background-position: top; 
+    background-repeat: no-repeat;
+}
+
+.box
+{
+    /* 绝对定位 */
+    position: absolute;
+    left: 50%;
+    top : 50%;
+    transform:translate(-50%,-50%);
+    /* 设置宽高背景颜色 */
+    background-color: rgb(111, 12, 143);
+    width: 400px;
+    /* 文字居中 */
+    text-align: center;
+    /* 设置圆角 */
+    border-radius: 20px;
+    /* 文字大小 */
+    font-size: 20px;
+}
+h1
+{
+    color: white
+
+
+
+}
+.text
+{
+    /* 将行元素设置成块元素 */
+    display: block;
+    /* 上下各撑开10px左右居中 */
+    margin: 10px auto;
+    /* 内边距 */
+    padding:10px 20px;
+    /* 宽度 */
+    width: 180px;
+    /* 设置文本居中 */
+    text-align: center;
+    /* 字体大小 */
+    font-size: 15px;
+
+}
+.button
+{
+padding: 5px 30px;
+border-radius: 10px;
+background-color: blue;
+color: white;
+/* 取消所有样式 */
+border: none;
+}

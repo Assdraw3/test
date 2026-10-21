@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\CLanguege\\9_24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76431978-E006-42FC-A6E5-0F247D9E3D16}|9_24.vcxproj|D:\\Project\\CLanguege\\9_24\\eightqueens.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76431978-E006-42FC-A6E5-0F247D9E3D16}|9_24.vcxproj|solutionrelative:eightqueens.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "eightqueens.c",
+              "DocumentMoniker": "D:\\Project\\CLanguege\\9_24\\eightqueens.c",
+              "RelativeDocumentMoniker": "eightqueens.c",
+              "ToolTip": "D:\\Project\\CLanguege\\9_24\\eightqueens.c",
+              "RelativeToolTip": "eightqueens.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-24T04:00:09.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

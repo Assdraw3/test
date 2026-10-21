@@ -1,0 +1,4 @@
+﻿  tree.c
+D:\Project\CLanguege\字典树\tree.c(9,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\CLanguege\字典树\tree.c(24,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  字典树.vcxproj -> D:\Project\CLanguege\字典树\x64\Debug\字典树.exe

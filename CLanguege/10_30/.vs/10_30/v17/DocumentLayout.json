@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\CLanguege\\10_30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E6A72A-E6C4-4BCE-A236-13AAE3EA8E66}|10_30.vcxproj|D:\\Project\\CLanguege\\10_30\\cxkc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75E6A72A-E6C4-4BCE-A236-13AAE3EA8E66}|10_30.vcxproj|solutionrelative:cxkc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cxkc.cpp",
+              "DocumentMoniker": "D:\\Project\\CLanguege\\10_30\\cxkc.cpp",
+              "RelativeDocumentMoniker": "cxkc.cpp",
+              "ToolTip": "D:\\Project\\CLanguege\\10_30\\cxkc.cpp",
+              "RelativeToolTip": "cxkc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T13:30:25.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

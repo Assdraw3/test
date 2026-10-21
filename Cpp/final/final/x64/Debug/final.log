@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\Project\Cpp\final\源.cpp(413,1): warning C4715: “king”: 不是所有的控件路径都返回值
+  final.vcxproj -> D:\Project\Cpp\final\x64\Debug\final.exe

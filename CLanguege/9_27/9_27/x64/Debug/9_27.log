@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\qingj\Desktop\CLanguege\9_27\test.c(107,20): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\qingj\Desktop\CLanguege\9_27\test.c(110,20): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  9_27.vcxproj -> C:\Users\qingj\Desktop\CLanguege\9_27\x64\Debug\9_27.exe

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Cpp\\mysql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5E265A-4ACA-49F1-AF3D-F568A3D4A3F5}|mysql.vcxproj|D:\\Project\\Cpp\\mysql\\odbc_browse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5E265A-4ACA-49F1-AF3D-F568A3D4A3F5}|mysql.vcxproj|solutionrelative:odbc_browse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5E265A-4ACA-49F1-AF3D-F568A3D4A3F5}|mysql.vcxproj|D:\\Project\\Cpp\\mysql\\odbc_delete.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5E265A-4ACA-49F1-AF3D-F568A3D4A3F5}|mysql.vcxproj|solutionrelative:odbc_delete.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5E265A-4ACA-49F1-AF3D-F568A3D4A3F5}|mysql.vcxproj|D:\\Project\\Cpp\\mysql\\odbc_update.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5E265A-4ACA-49F1-AF3D-F568A3D4A3F5}|mysql.vcxproj|solutionrelative:odbc_update.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5E265A-4ACA-49F1-AF3D-F568A3D4A3F5}|mysql.vcxproj|D:\\Project\\Cpp\\mysql\\odbc_insert.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5E265A-4ACA-49F1-AF3D-F568A3D4A3F5}|mysql.vcxproj|solutionrelative:odbc_insert.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5E265A-4ACA-49F1-AF3D-F568A3D4A3F5}|mysql.vcxproj|D:\\Project\\Cpp\\mysql\\odbc_connect.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5E265A-4ACA-49F1-AF3D-F568A3D4A3F5}|mysql.vcxproj|solutionrelative:odbc_connect.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "odbc_browse.c",
+              "DocumentMoniker": "D:\\Project\\Cpp\\mysql\\odbc_browse.c",
+              "RelativeDocumentMoniker": "odbc_browse.c",
+              "ToolTip": "D:\\Project\\Cpp\\mysql\\odbc_browse.c",
+              "RelativeToolTip": "odbc_browse.c",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-25T09:35:08.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "odbc_delete.c",
+              "DocumentMoniker": "D:\\Project\\Cpp\\mysql\\odbc_delete.c",
+              "RelativeDocumentMoniker": "odbc_delete.c",
+              "ToolTip": "D:\\Project\\Cpp\\mysql\\odbc_delete.c",
+              "RelativeToolTip": "odbc_delete.c",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwDkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-25T09:33:27.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "odbc_update.c",
+              "DocumentMoniker": "D:\\Project\\Cpp\\mysql\\odbc_update.c",
+              "RelativeDocumentMoniker": "odbc_update.c",
+              "ToolTip": "D:\\Project\\Cpp\\mysql\\odbc_update.c",
+              "RelativeToolTip": "odbc_update.c",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwD4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-25T09:31:27.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "odbc_insert.c",
+              "DocumentMoniker": "D:\\Project\\Cpp\\mysql\\odbc_insert.c",
+              "RelativeDocumentMoniker": "odbc_insert.c",
+              "ToolTip": "D:\\Project\\Cpp\\mysql\\odbc_insert.c",
+              "RelativeToolTip": "odbc_insert.c",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-25T09:10:18.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "odbc_connect.c",
+              "DocumentMoniker": "D:\\Project\\Cpp\\mysql\\odbc_connect.c",
+              "RelativeDocumentMoniker": "odbc_connect.c",
+              "ToolTip": "D:\\Project\\Cpp\\mysql\\odbc_connect.c",
+              "RelativeToolTip": "odbc_connect.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-25T08:49:31.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

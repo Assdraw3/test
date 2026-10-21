@@ -1,0 +1,697 @@
+D:\Project\Python\exp1\.venv\Scripts\python.exe D:\Project\Python\exp1\ver2\ver2.py 
+使用设备: cuda
+100.0%
+100.0%
+100.0%
+100.0%
+训练集:55000 验证集:5000 测试集:10000
+[A1_SGD] 模型参数量：235146
+[A1_SGD] Epoch: 1 TrLoss:0.5312 TrAcc:80.72% | ValLoss:0.4266 ValAcc:84.72%
+[A1_SGD] Epoch: 2 TrLoss:0.3654 TrAcc:86.68% | ValLoss:0.3622 ValAcc:86.30%
+[A1_SGD] Epoch: 3 TrLoss:0.3240 TrAcc:88.07% | ValLoss:0.3443 ValAcc:87.50%
+[A1_SGD] Epoch: 4 TrLoss:0.2962 TrAcc:89.08% | ValLoss:0.3273 ValAcc:87.74%
+[A1_SGD] Epoch: 5 TrLoss:0.2788 TrAcc:89.56% | ValLoss:0.3216 ValAcc:88.32%
+[A1_SGD] Epoch: 6 TrLoss:0.2622 TrAcc:90.17% | ValLoss:0.3158 ValAcc:88.46%
+[A1_SGD] Epoch: 7 TrLoss:0.2426 TrAcc:90.99% | ValLoss:0.3593 ValAcc:86.18%
+[A1_SGD] Epoch: 8 TrLoss:0.2327 TrAcc:91.32% | ValLoss:0.3220 ValAcc:88.52%
+[A1_SGD] Epoch: 9 TrLoss:0.2183 TrAcc:91.81% | ValLoss:0.3157 ValAcc:88.56%
+[A1_SGD] Epoch:10 TrLoss:0.2074 TrAcc:92.22% | ValLoss:0.3213 ValAcc:89.04%
+[A1_SGD] Epoch:11 TrLoss:0.1963 TrAcc:92.58% | ValLoss:0.3714 ValAcc:86.76%
+[A1_SGD] Epoch:12 TrLoss:0.1890 TrAcc:92.80% | ValLoss:0.3268 ValAcc:88.88%
+[A1_SGD] Epoch:13 TrLoss:0.1794 TrAcc:93.27% | ValLoss:0.3294 ValAcc:88.44%
+[A1_SGD] Epoch:14 TrLoss:0.1683 TrAcc:93.68% | ValLoss:0.3312 ValAcc:88.58%
+[A1_SGD] Epoch:15 TrLoss:0.1629 TrAcc:93.93% | ValLoss:0.3326 ValAcc:88.80%
+[A1_SGD] Epoch:16 TrLoss:0.1566 TrAcc:94.12% | ValLoss:0.3407 ValAcc:89.00%
+[A1_SGD] Epoch:17 TrLoss:0.1479 TrAcc:94.34% | ValLoss:0.3487 ValAcc:88.82%
+[A1_SGD] Epoch:18 TrLoss:0.1419 TrAcc:94.67% | ValLoss:0.3658 ValAcc:88.64%
+[A1_SGD] Epoch:19 TrLoss:0.1350 TrAcc:94.89% | ValLoss:0.3482 ValAcc:89.18%
+[A1_SGD] Epoch:20 TrLoss:0.1273 TrAcc:95.24% | ValLoss:0.3524 ValAcc:89.02%
+
+[A1_SGD] 测试集结果 TestLoss:0.3742 TestAcc:88.72%
+
+[A2_SGD_Nesterov] 模型参数量：235146
+[A2_SGD_Nesterov] Epoch: 1 TrLoss:0.5186 TrAcc:81.51% | ValLoss:0.4521 ValAcc:83.20%
+[A2_SGD_Nesterov] Epoch: 2 TrLoss:0.3612 TrAcc:86.83% | ValLoss:0.3886 ValAcc:86.08%
+[A2_SGD_Nesterov] Epoch: 3 TrLoss:0.3203 TrAcc:88.16% | ValLoss:0.3667 ValAcc:86.54%
+[A2_SGD_Nesterov] Epoch: 4 TrLoss:0.2936 TrAcc:89.26% | ValLoss:0.3430 ValAcc:87.26%
+[A2_SGD_Nesterov] Epoch: 5 TrLoss:0.2725 TrAcc:89.84% | ValLoss:0.3429 ValAcc:87.64%
+[A2_SGD_Nesterov] Epoch: 6 TrLoss:0.2560 TrAcc:90.42% | ValLoss:0.3435 ValAcc:87.42%
+[A2_SGD_Nesterov] Epoch: 7 TrLoss:0.2416 TrAcc:90.97% | ValLoss:0.3458 ValAcc:87.48%
+[A2_SGD_Nesterov] Epoch: 8 TrLoss:0.2271 TrAcc:91.59% | ValLoss:0.3312 ValAcc:88.14%
+[A2_SGD_Nesterov] Epoch: 9 TrLoss:0.2141 TrAcc:91.97% | ValLoss:0.3360 ValAcc:88.44%
+[A2_SGD_Nesterov] Epoch:10 TrLoss:0.2052 TrAcc:92.21% | ValLoss:0.3368 ValAcc:88.24%
+[A2_SGD_Nesterov] Epoch:11 TrLoss:0.1953 TrAcc:92.71% | ValLoss:0.3193 ValAcc:88.80%
+[A2_SGD_Nesterov] Epoch:12 TrLoss:0.1854 TrAcc:93.05% | ValLoss:0.3440 ValAcc:88.40%
+[A2_SGD_Nesterov] Epoch:13 TrLoss:0.1734 TrAcc:93.60% | ValLoss:0.3168 ValAcc:89.34%
+[A2_SGD_Nesterov] Epoch:14 TrLoss:0.1670 TrAcc:93.78% | ValLoss:0.3254 ValAcc:89.18%
+[A2_SGD_Nesterov] Epoch:15 TrLoss:0.1605 TrAcc:93.98% | ValLoss:0.3415 ValAcc:88.86%
+[A2_SGD_Nesterov] Epoch:16 TrLoss:0.1522 TrAcc:94.31% | ValLoss:0.3375 ValAcc:88.54%
+[A2_SGD_Nesterov] Epoch:17 TrLoss:0.1440 TrAcc:94.60% | ValLoss:0.3475 ValAcc:89.28%
+[A2_SGD_Nesterov] Epoch:18 TrLoss:0.1374 TrAcc:94.81% | ValLoss:0.3639 ValAcc:88.66%
+[A2_SGD_Nesterov] Epoch:19 TrLoss:0.1308 TrAcc:95.09% | ValLoss:0.3554 ValAcc:89.16%
+[A2_SGD_Nesterov] Epoch:20 TrLoss:0.1252 TrAcc:95.27% | ValLoss:0.3742 ValAcc:88.54%
+
+[A2_SGD_Nesterov] 测试集结果 TestLoss:0.3301 TestAcc:89.17%
+
+[A3_Adam] 模型参数量：235146
+[A3_Adam] Epoch: 1 TrLoss:0.4670 TrAcc:83.02% | ValLoss:0.3907 ValAcc:85.10%
+[A3_Adam] Epoch: 2 TrLoss:0.3473 TrAcc:87.15% | ValLoss:0.3545 ValAcc:86.92%
+[A3_Adam] Epoch: 3 TrLoss:0.3106 TrAcc:88.49% | ValLoss:0.3496 ValAcc:87.38%
+[A3_Adam] Epoch: 4 TrLoss:0.2842 TrAcc:89.51% | ValLoss:0.3282 ValAcc:87.80%
+[A3_Adam] Epoch: 5 TrLoss:0.2658 TrAcc:90.09% | ValLoss:0.3219 ValAcc:88.50%
+[A3_Adam] Epoch: 6 TrLoss:0.2494 TrAcc:90.70% | ValLoss:0.3397 ValAcc:88.00%
+[A3_Adam] Epoch: 7 TrLoss:0.2334 TrAcc:91.27% | ValLoss:0.3367 ValAcc:87.98%
+[A3_Adam] Epoch: 8 TrLoss:0.2224 TrAcc:91.59% | ValLoss:0.3278 ValAcc:88.50%
+[A3_Adam] Epoch: 9 TrLoss:0.2087 TrAcc:92.14% | ValLoss:0.3480 ValAcc:88.04%
+[A3_Adam] Epoch:10 TrLoss:0.1987 TrAcc:92.59% | ValLoss:0.3717 ValAcc:88.00%
+[A3_Adam] Epoch:11 TrLoss:0.1884 TrAcc:92.87% | ValLoss:0.3543 ValAcc:88.78%
+[A3_Adam] Epoch:12 TrLoss:0.1788 TrAcc:93.21% | ValLoss:0.3508 ValAcc:88.78%
+[A3_Adam] Epoch:13 TrLoss:0.1711 TrAcc:93.43% | ValLoss:0.3480 ValAcc:89.34%
+[A3_Adam] Epoch:14 TrLoss:0.1618 TrAcc:93.90% | ValLoss:0.3631 ValAcc:88.56%
+[A3_Adam] Epoch:15 TrLoss:0.1539 TrAcc:94.25% | ValLoss:0.3597 ValAcc:88.56%
+[A3_Adam] Epoch:16 TrLoss:0.1471 TrAcc:94.42% | ValLoss:0.3605 ValAcc:88.74%
+[A3_Adam] Epoch:17 TrLoss:0.1414 TrAcc:94.52% | ValLoss:0.3747 ValAcc:88.72%
+[A3_Adam] Epoch:18 TrLoss:0.1362 TrAcc:94.75% | ValLoss:0.4022 ValAcc:88.76%
+[A3_Adam] Epoch:19 TrLoss:0.1269 TrAcc:95.17% | ValLoss:0.3975 ValAcc:88.80%
+[A3_Adam] Epoch:20 TrLoss:0.1236 TrAcc:95.34% | ValLoss:0.3950 ValAcc:89.20%
+
+[A3_Adam] 测试集结果 TestLoss:0.3786 TestAcc:88.95%
+
+[A4_AdamW] 模型参数量：235146
+[A4_AdamW] Epoch: 1 TrLoss:0.4710 TrAcc:82.84% | ValLoss:0.3928 ValAcc:85.92%
+[A4_AdamW] Epoch: 2 TrLoss:0.3491 TrAcc:87.20% | ValLoss:0.3495 ValAcc:86.86%
+[A4_AdamW] Epoch: 3 TrLoss:0.3129 TrAcc:88.56% | ValLoss:0.3726 ValAcc:86.42%
+[A4_AdamW] Epoch: 4 TrLoss:0.2849 TrAcc:89.39% | ValLoss:0.3297 ValAcc:88.46%
+[A4_AdamW] Epoch: 5 TrLoss:0.2644 TrAcc:90.19% | ValLoss:0.3344 ValAcc:87.64%
+[A4_AdamW] Epoch: 6 TrLoss:0.2498 TrAcc:90.69% | ValLoss:0.3373 ValAcc:88.06%
+[A4_AdamW] Epoch: 7 TrLoss:0.2353 TrAcc:91.04% | ValLoss:0.3294 ValAcc:88.34%
+[A4_AdamW] Epoch: 8 TrLoss:0.2216 TrAcc:91.66% | ValLoss:0.3435 ValAcc:88.16%
+[A4_AdamW] Epoch: 9 TrLoss:0.2114 TrAcc:91.97% | ValLoss:0.3401 ValAcc:88.60%
+[A4_AdamW] Epoch:10 TrLoss:0.2010 TrAcc:92.39% | ValLoss:0.3150 ValAcc:89.10%
+[A4_AdamW] Epoch:11 TrLoss:0.1888 TrAcc:92.80% | ValLoss:0.3374 ValAcc:88.94%
+[A4_AdamW] Epoch:12 TrLoss:0.1820 TrAcc:93.12% | ValLoss:0.3523 ValAcc:89.00%
+[A4_AdamW] Epoch:13 TrLoss:0.1728 TrAcc:93.35% | ValLoss:0.3413 ValAcc:88.96%
+[A4_AdamW] Epoch:14 TrLoss:0.1630 TrAcc:93.83% | ValLoss:0.3636 ValAcc:88.46%
+[A4_AdamW] Epoch:15 TrLoss:0.1559 TrAcc:94.04% | ValLoss:0.3538 ValAcc:88.58%
+[A4_AdamW] Epoch:16 TrLoss:0.1499 TrAcc:94.20% | ValLoss:0.3760 ValAcc:88.44%
+[A4_AdamW] Epoch:17 TrLoss:0.1422 TrAcc:94.59% | ValLoss:0.4040 ValAcc:88.48%
+[A4_AdamW] Epoch:18 TrLoss:0.1361 TrAcc:94.90% | ValLoss:0.3866 ValAcc:88.86%
+[A4_AdamW] Epoch:19 TrLoss:0.1291 TrAcc:95.08% | ValLoss:0.3933 ValAcc:89.00%
+[A4_AdamW] Epoch:20 TrLoss:0.1229 TrAcc:95.28% | ValLoss:0.4636 ValAcc:88.38%
+
+[A4_AdamW] 测试集结果 TestLoss:0.3405 TestAcc:88.83%
+
+[B1_FixedLR] 模型参数量：235146
+[B1_FixedLR] Epoch: 1 TrLoss:0.5372 TrAcc:80.78% | ValLoss:0.4002 ValAcc:85.42%
+[B1_FixedLR] Epoch: 2 TrLoss:0.3653 TrAcc:86.66% | ValLoss:0.3998 ValAcc:85.44%
+[B1_FixedLR] Epoch: 3 TrLoss:0.3248 TrAcc:88.08% | ValLoss:0.3699 ValAcc:86.34%
+[B1_FixedLR] Epoch: 4 TrLoss:0.2980 TrAcc:88.90% | ValLoss:0.3382 ValAcc:88.14%
+[B1_FixedLR] Epoch: 5 TrLoss:0.2757 TrAcc:89.75% | ValLoss:0.3312 ValAcc:88.30%
+[B1_FixedLR] Epoch: 6 TrLoss:0.2611 TrAcc:90.11% | ValLoss:0.3277 ValAcc:88.18%
+[B1_FixedLR] Epoch: 7 TrLoss:0.2428 TrAcc:90.88% | ValLoss:0.3114 ValAcc:88.58%
+[B1_FixedLR] Epoch: 8 TrLoss:0.2296 TrAcc:91.33% | ValLoss:0.3242 ValAcc:88.48%
+[B1_FixedLR] Epoch: 9 TrLoss:0.2185 TrAcc:91.83% | ValLoss:0.3135 ValAcc:89.20%
+[B1_FixedLR] Epoch:10 TrLoss:0.2056 TrAcc:92.30% | ValLoss:0.3373 ValAcc:88.08%
+[B1_FixedLR] Epoch:11 TrLoss:0.1992 TrAcc:92.43% | ValLoss:0.3180 ValAcc:88.80%
+[B1_FixedLR] Epoch:12 TrLoss:0.1875 TrAcc:92.99% | ValLoss:0.3140 ValAcc:89.18%
+[B1_FixedLR] Epoch:13 TrLoss:0.1806 TrAcc:93.17% | ValLoss:0.3281 ValAcc:88.44%
+[B1_FixedLR] Epoch:14 TrLoss:0.1719 TrAcc:93.51% | ValLoss:0.3458 ValAcc:88.70%
+[B1_FixedLR] Epoch:15 TrLoss:0.1620 TrAcc:93.89% | ValLoss:0.3418 ValAcc:88.70%
+[B1_FixedLR] Epoch:16 TrLoss:0.1523 TrAcc:94.20% | ValLoss:0.3455 ValAcc:88.40%
+[B1_FixedLR] Epoch:17 TrLoss:0.1497 TrAcc:94.38% | ValLoss:0.3536 ValAcc:88.40%
+[B1_FixedLR] Epoch:18 TrLoss:0.1414 TrAcc:94.67% | ValLoss:0.3526 ValAcc:88.82%
+[B1_FixedLR] Epoch:19 TrLoss:0.1358 TrAcc:94.94% | ValLoss:0.3607 ValAcc:89.08%
+[B1_FixedLR] Epoch:20 TrLoss:0.1278 TrAcc:95.16% | ValLoss:0.3669 ValAcc:88.78%
+
+[B1_FixedLR] 测试集结果 TestLoss:0.3294 TestAcc:88.72%
+
+[B2_StepLR] 模型参数量：235146
+[B2_StepLR] Epoch: 1 TrLoss:0.5363 TrAcc:80.85% | ValLoss:0.4008 ValAcc:85.22%
+[B2_StepLR] Epoch: 2 TrLoss:0.3684 TrAcc:86.66% | ValLoss:0.3885 ValAcc:86.48%
+[B2_StepLR] Epoch: 3 TrLoss:0.3256 TrAcc:88.05% | ValLoss:0.3641 ValAcc:86.82%
+[B2_StepLR] Epoch: 4 TrLoss:0.2972 TrAcc:89.19% | ValLoss:0.3536 ValAcc:87.04%
+[B2_StepLR] Epoch: 5 TrLoss:0.2759 TrAcc:89.83% | ValLoss:0.3289 ValAcc:88.18%
+[B2_StepLR] Epoch: 6 TrLoss:0.2366 TrAcc:91.10% | ValLoss:0.3039 ValAcc:89.02%
+[B2_StepLR] Epoch: 7 TrLoss:0.2248 TrAcc:91.70% | ValLoss:0.3057 ValAcc:89.14%
+[B2_StepLR] Epoch: 8 TrLoss:0.2155 TrAcc:92.07% | ValLoss:0.2996 ValAcc:89.36%
+[B2_StepLR] Epoch: 9 TrLoss:0.2056 TrAcc:92.33% | ValLoss:0.3124 ValAcc:88.96%
+[B2_StepLR] Epoch:10 TrLoss:0.1979 TrAcc:92.74% | ValLoss:0.3219 ValAcc:88.28%
+[B2_StepLR] Epoch:11 TrLoss:0.1750 TrAcc:93.64% | ValLoss:0.3032 ValAcc:89.94%
+[B2_StepLR] Epoch:12 TrLoss:0.1684 TrAcc:93.91% | ValLoss:0.3011 ValAcc:90.10%
+[B2_StepLR] Epoch:13 TrLoss:0.1627 TrAcc:94.16% | ValLoss:0.3021 ValAcc:90.16%
+[B2_StepLR] Epoch:14 TrLoss:0.1578 TrAcc:94.38% | ValLoss:0.3043 ValAcc:90.02%
+[B2_StepLR] Epoch:15 TrLoss:0.1537 TrAcc:94.55% | ValLoss:0.3025 ValAcc:90.08%
+[B2_StepLR] Epoch:16 TrLoss:0.1396 TrAcc:95.16% | ValLoss:0.3001 ValAcc:90.14%
+[B2_StepLR] Epoch:17 TrLoss:0.1355 TrAcc:95.27% | ValLoss:0.2992 ValAcc:90.00%
+[B2_StepLR] Epoch:18 TrLoss:0.1332 TrAcc:95.30% | ValLoss:0.3022 ValAcc:90.14%
+[B2_StepLR] Epoch:19 TrLoss:0.1303 TrAcc:95.47% | ValLoss:0.3056 ValAcc:89.84%
+[B2_StepLR] Epoch:20 TrLoss:0.1278 TrAcc:95.54% | ValLoss:0.3004 ValAcc:90.20%
+
+[B2_StepLR] 测试集结果 TestLoss:0.3169 TestAcc:89.42%
+
+[B3_Cosine] 模型参数量：235146
+[B3_Cosine] Epoch: 1 TrLoss:0.5364 TrAcc:80.87% | ValLoss:0.4324 ValAcc:84.12%
+[B3_Cosine] Epoch: 2 TrLoss:0.3641 TrAcc:86.64% | ValLoss:0.3864 ValAcc:85.90%
+[B3_Cosine] Epoch: 3 TrLoss:0.3233 TrAcc:88.04% | ValLoss:0.3658 ValAcc:86.48%
+[B3_Cosine] Epoch: 4 TrLoss:0.2982 TrAcc:88.96% | ValLoss:0.3431 ValAcc:87.32%
+[B3_Cosine] Epoch: 5 TrLoss:0.2736 TrAcc:89.76% | ValLoss:0.3245 ValAcc:88.58%
+[B3_Cosine] Epoch: 6 TrLoss:0.2560 TrAcc:90.45% | ValLoss:0.3277 ValAcc:87.80%
+[B3_Cosine] Epoch: 7 TrLoss:0.2411 TrAcc:91.13% | ValLoss:0.3205 ValAcc:87.90%
+[B3_Cosine] Epoch: 8 TrLoss:0.2225 TrAcc:91.59% | ValLoss:0.3202 ValAcc:88.50%
+[B3_Cosine] Epoch: 9 TrLoss:0.2063 TrAcc:92.33% | ValLoss:0.3060 ValAcc:89.06%
+[B3_Cosine] Epoch:10 TrLoss:0.1943 TrAcc:92.76% | ValLoss:0.3101 ValAcc:89.06%
+[B3_Cosine] Epoch:11 TrLoss:0.1800 TrAcc:93.39% | ValLoss:0.3151 ValAcc:88.72%
+[B3_Cosine] Epoch:12 TrLoss:0.1664 TrAcc:93.90% | ValLoss:0.3105 ValAcc:89.00%
+[B3_Cosine] Epoch:13 TrLoss:0.1551 TrAcc:94.31% | ValLoss:0.3125 ValAcc:89.10%
+[B3_Cosine] Epoch:14 TrLoss:0.1438 TrAcc:94.82% | ValLoss:0.3158 ValAcc:89.22%
+[B3_Cosine] Epoch:15 TrLoss:0.1346 TrAcc:95.22% | ValLoss:0.3222 ValAcc:89.02%
+[B3_Cosine] Epoch:16 TrLoss:0.1266 TrAcc:95.58% | ValLoss:0.3091 ValAcc:89.34%
+[B3_Cosine] Epoch:17 TrLoss:0.1204 TrAcc:95.86% | ValLoss:0.3114 ValAcc:89.48%
+[B3_Cosine] Epoch:18 TrLoss:0.1150 TrAcc:96.13% | ValLoss:0.3131 ValAcc:89.48%
+[B3_Cosine] Epoch:19 TrLoss:0.1118 TrAcc:96.25% | ValLoss:0.3105 ValAcc:89.62%
+[B3_Cosine] Epoch:20 TrLoss:0.1098 TrAcc:96.35% | ValLoss:0.3106 ValAcc:89.86%
+
+[B3_Cosine] 测试集结果 TestLoss:0.3207 TestAcc:89.47%
+
+[B4_ReducePlateau] 模型参数量：235146
+[B4_ReducePlateau] Epoch: 1 TrLoss:0.5348 TrAcc:80.92% | ValLoss:0.4245 ValAcc:84.76%
+[B4_ReducePlateau] Epoch: 2 TrLoss:0.3666 TrAcc:86.62% | ValLoss:0.3693 ValAcc:86.30%
+[B4_ReducePlateau] Epoch: 3 TrLoss:0.3269 TrAcc:88.11% | ValLoss:0.3407 ValAcc:88.02%
+[B4_ReducePlateau] Epoch: 4 TrLoss:0.2969 TrAcc:89.16% | ValLoss:0.3464 ValAcc:87.40%
+[B4_ReducePlateau] Epoch: 5 TrLoss:0.2772 TrAcc:89.62% | ValLoss:0.3238 ValAcc:88.40%
+[B4_ReducePlateau] Epoch: 6 TrLoss:0.2609 TrAcc:90.26% | ValLoss:0.3258 ValAcc:87.98%
+[B4_ReducePlateau] Epoch: 7 TrLoss:0.2436 TrAcc:90.98% | ValLoss:0.3331 ValAcc:88.36%
+[B4_ReducePlateau] Epoch: 8 TrLoss:0.2300 TrAcc:91.44% | ValLoss:0.3263 ValAcc:88.62%
+[B4_ReducePlateau] Epoch: 9 TrLoss:0.2179 TrAcc:91.90% | ValLoss:0.3202 ValAcc:88.58%
+[B4_ReducePlateau] Epoch:10 TrLoss:0.2091 TrAcc:92.17% | ValLoss:0.3376 ValAcc:87.82%
+[B4_ReducePlateau] Epoch:11 TrLoss:0.1986 TrAcc:92.60% | ValLoss:0.3461 ValAcc:88.90%
+[B4_ReducePlateau] Epoch:12 TrLoss:0.1874 TrAcc:92.88% | ValLoss:0.3282 ValAcc:88.62%
+[B4_ReducePlateau] Epoch:13 TrLoss:0.1807 TrAcc:93.16% | ValLoss:0.3158 ValAcc:89.40%
+[B4_ReducePlateau] Epoch:14 TrLoss:0.1691 TrAcc:93.66% | ValLoss:0.3476 ValAcc:88.48%
+[B4_ReducePlateau] Epoch:15 TrLoss:0.1645 TrAcc:93.81% | ValLoss:0.3334 ValAcc:89.12%
+[B4_ReducePlateau] Epoch:16 TrLoss:0.1549 TrAcc:94.27% | ValLoss:0.3364 ValAcc:88.84%
+[B4_ReducePlateau] Epoch:17 TrLoss:0.1484 TrAcc:94.38% | ValLoss:0.3533 ValAcc:89.06%
+[B4_ReducePlateau] Epoch:18 TrLoss:0.1122 TrAcc:95.92% | ValLoss:0.3361 ValAcc:89.00%
+[B4_ReducePlateau] Epoch:19 TrLoss:0.1035 TrAcc:96.28% | ValLoss:0.3471 ValAcc:89.32%
+[B4_ReducePlateau] Epoch:20 TrLoss:0.0988 TrAcc:96.39% | ValLoss:0.3546 ValAcc:89.32%
+
+[B4_ReducePlateau] 测试集结果 TestLoss:0.3337 TestAcc:89.08%
+
+[C1_NoDropout] 模型参数量：235146
+[C1_NoDropout] Epoch: 1 TrLoss:0.5327 TrAcc:81.06% | ValLoss:0.4014 ValAcc:85.40%
+[C1_NoDropout] Epoch: 2 TrLoss:0.3657 TrAcc:86.63% | ValLoss:0.4038 ValAcc:85.30%
+[C1_NoDropout] Epoch: 3 TrLoss:0.3252 TrAcc:88.14% | ValLoss:0.3466 ValAcc:87.50%
+[C1_NoDropout] Epoch: 4 TrLoss:0.2999 TrAcc:88.92% | ValLoss:0.3428 ValAcc:86.80%
+[C1_NoDropout] Epoch: 5 TrLoss:0.2772 TrAcc:89.66% | ValLoss:0.3390 ValAcc:87.22%
+[C1_NoDropout] Epoch: 6 TrLoss:0.2594 TrAcc:90.28% | ValLoss:0.3125 ValAcc:88.68%
+[C1_NoDropout] Epoch: 7 TrLoss:0.2448 TrAcc:90.79% | ValLoss:0.3306 ValAcc:88.32%
+[C1_NoDropout] Epoch: 8 TrLoss:0.2314 TrAcc:91.31% | ValLoss:0.3318 ValAcc:88.02%
+[C1_NoDropout] Epoch: 9 TrLoss:0.2179 TrAcc:91.89% | ValLoss:0.3350 ValAcc:87.74%
+[C1_NoDropout] Epoch:10 TrLoss:0.2070 TrAcc:92.17% | ValLoss:0.3243 ValAcc:88.90%
+[C1_NoDropout] Epoch:11 TrLoss:0.1968 TrAcc:92.62% | ValLoss:0.3263 ValAcc:88.24%
+[C1_NoDropout] Epoch:12 TrLoss:0.1894 TrAcc:92.90% | ValLoss:0.3433 ValAcc:88.22%
+[C1_NoDropout] Epoch:13 TrLoss:0.1794 TrAcc:93.31% | ValLoss:0.3444 ValAcc:88.64%
+[C1_NoDropout] Epoch:14 TrLoss:0.1711 TrAcc:93.66% | ValLoss:0.3443 ValAcc:88.30%
+[C1_NoDropout] Epoch:15 TrLoss:0.1623 TrAcc:93.79% | ValLoss:0.3458 ValAcc:88.70%
+[C1_NoDropout] Epoch:16 TrLoss:0.1541 TrAcc:94.17% | ValLoss:0.3515 ValAcc:88.60%
+[C1_NoDropout] Epoch:17 TrLoss:0.1485 TrAcc:94.39% | ValLoss:0.3643 ValAcc:88.68%
+[C1_NoDropout] Epoch:18 TrLoss:0.1411 TrAcc:94.57% | ValLoss:0.3619 ValAcc:88.74%
+[C1_NoDropout] Epoch:19 TrLoss:0.1350 TrAcc:94.93% | ValLoss:0.3559 ValAcc:88.94%
+[C1_NoDropout] Epoch:20 TrLoss:0.1303 TrAcc:95.04% | ValLoss:0.3828 ValAcc:88.50%
+
+[C1_NoDropout] 测试集结果 TestLoss:0.3715 TestAcc:88.89%
+
+[C2_Dropout02] 模型参数量：235146
+[C2_Dropout02] Epoch: 1 TrLoss:0.5845 TrAcc:78.93% | ValLoss:0.4340 ValAcc:84.04%
+[C2_Dropout02] Epoch: 2 TrLoss:0.4025 TrAcc:85.61% | ValLoss:0.3805 ValAcc:86.16%
+[C2_Dropout02] Epoch: 3 TrLoss:0.3633 TrAcc:86.80% | ValLoss:0.3743 ValAcc:86.10%
+[C2_Dropout02] Epoch: 4 TrLoss:0.3382 TrAcc:87.55% | ValLoss:0.3500 ValAcc:87.52%
+[C2_Dropout02] Epoch: 5 TrLoss:0.3217 TrAcc:88.17% | ValLoss:0.3434 ValAcc:87.42%
+[C2_Dropout02] Epoch: 6 TrLoss:0.3039 TrAcc:88.75% | ValLoss:0.3365 ValAcc:87.90%
+[C2_Dropout02] Epoch: 7 TrLoss:0.2910 TrAcc:89.25% | ValLoss:0.3161 ValAcc:88.24%
+[C2_Dropout02] Epoch: 8 TrLoss:0.2826 TrAcc:89.60% | ValLoss:0.3220 ValAcc:88.44%
+[C2_Dropout02] Epoch: 9 TrLoss:0.2701 TrAcc:90.02% | ValLoss:0.3111 ValAcc:88.60%
+[C2_Dropout02] Epoch:10 TrLoss:0.2638 TrAcc:90.25% | ValLoss:0.3093 ValAcc:88.64%
+[C2_Dropout02] Epoch:11 TrLoss:0.2572 TrAcc:90.34% | ValLoss:0.3333 ValAcc:87.68%
+[C2_Dropout02] Epoch:12 TrLoss:0.2482 TrAcc:90.69% | ValLoss:0.3134 ValAcc:88.64%
+[C2_Dropout02] Epoch:13 TrLoss:0.2409 TrAcc:91.00% | ValLoss:0.3302 ValAcc:87.88%
+[C2_Dropout02] Epoch:14 TrLoss:0.2350 TrAcc:91.19% | ValLoss:0.3117 ValAcc:88.80%
+[C2_Dropout02] Epoch:15 TrLoss:0.2283 TrAcc:91.38% | ValLoss:0.3045 ValAcc:89.08%
+[C2_Dropout02] Epoch:16 TrLoss:0.2213 TrAcc:91.70% | ValLoss:0.2979 ValAcc:89.40%
+[C2_Dropout02] Epoch:17 TrLoss:0.2175 TrAcc:91.73% | ValLoss:0.3045 ValAcc:89.48%
+[C2_Dropout02] Epoch:18 TrLoss:0.2121 TrAcc:92.00% | ValLoss:0.3189 ValAcc:89.26%
+[C2_Dropout02] Epoch:19 TrLoss:0.2089 TrAcc:92.23% | ValLoss:0.3074 ValAcc:89.50%
+[C2_Dropout02] Epoch:20 TrLoss:0.2029 TrAcc:92.42% | ValLoss:0.3079 ValAcc:89.34%
+
+[C2_Dropout02] 测试集结果 TestLoss:0.3171 TestAcc:88.95%
+
+[C3_Dropout05] 模型参数量：235146
+[C3_Dropout05] Epoch: 1 TrLoss:0.6901 TrAcc:75.11% | ValLoss:0.4488 ValAcc:83.68%
+[C3_Dropout05] Epoch: 2 TrLoss:0.4965 TrAcc:82.32% | ValLoss:0.4092 ValAcc:84.84%
+[C3_Dropout05] Epoch: 3 TrLoss:0.4553 TrAcc:84.02% | ValLoss:0.4064 ValAcc:85.26%
+[C3_Dropout05] Epoch: 4 TrLoss:0.4257 TrAcc:84.95% | ValLoss:0.3763 ValAcc:86.32%
+[C3_Dropout05] Epoch: 5 TrLoss:0.4072 TrAcc:85.48% | ValLoss:0.3603 ValAcc:86.78%
+[C3_Dropout05] Epoch: 6 TrLoss:0.3945 TrAcc:85.89% | ValLoss:0.3662 ValAcc:86.50%
+[C3_Dropout05] Epoch: 7 TrLoss:0.3845 TrAcc:86.20% | ValLoss:0.3552 ValAcc:87.64%
+[C3_Dropout05] Epoch: 8 TrLoss:0.3705 TrAcc:86.65% | ValLoss:0.3500 ValAcc:87.42%
+[C3_Dropout05] Epoch: 9 TrLoss:0.3651 TrAcc:86.94% | ValLoss:0.3461 ValAcc:87.16%
+[C3_Dropout05] Epoch:10 TrLoss:0.3574 TrAcc:87.26% | ValLoss:0.3454 ValAcc:87.50%
+[C3_Dropout05] Epoch:11 TrLoss:0.3511 TrAcc:87.49% | ValLoss:0.3382 ValAcc:87.60%
+[C3_Dropout05] Epoch:12 TrLoss:0.3425 TrAcc:87.71% | ValLoss:0.3382 ValAcc:88.02%
+[C3_Dropout05] Epoch:13 TrLoss:0.3375 TrAcc:87.89% | ValLoss:0.3446 ValAcc:86.92%
+[C3_Dropout05] Epoch:14 TrLoss:0.3308 TrAcc:87.94% | ValLoss:0.3297 ValAcc:87.90%
+[C3_Dropout05] Epoch:15 TrLoss:0.3249 TrAcc:88.09% | ValLoss:0.3286 ValAcc:88.10%
+[C3_Dropout05] Epoch:16 TrLoss:0.3236 TrAcc:88.12% | ValLoss:0.3382 ValAcc:88.08%
+[C3_Dropout05] Epoch:17 TrLoss:0.3203 TrAcc:88.35% | ValLoss:0.3267 ValAcc:88.22%
+[C3_Dropout05] Epoch:18 TrLoss:0.3145 TrAcc:88.54% | ValLoss:0.3304 ValAcc:87.98%
+[C3_Dropout05] Epoch:19 TrLoss:0.3101 TrAcc:88.67% | ValLoss:0.3273 ValAcc:88.24%
+[C3_Dropout05] Epoch:20 TrLoss:0.3088 TrAcc:88.70% | ValLoss:0.3206 ValAcc:88.56%
+
+[C3_Dropout05] 测试集结果 TestLoss:0.3308 TestAcc:88.24%
+
+[D1_NoWD] 模型参数量：235146
+[D1_NoWD] Epoch: 1 TrLoss:0.5347 TrAcc:80.72% | ValLoss:0.4189 ValAcc:84.92%
+[D1_NoWD] Epoch: 2 TrLoss:0.3689 TrAcc:86.48% | ValLoss:0.3799 ValAcc:85.76%
+[D1_NoWD] Epoch: 3 TrLoss:0.3251 TrAcc:87.94% | ValLoss:0.3584 ValAcc:86.60%
+[D1_NoWD] Epoch: 4 TrLoss:0.3013 TrAcc:88.78% | ValLoss:0.3342 ValAcc:87.82%
+[D1_NoWD] Epoch: 5 TrLoss:0.2783 TrAcc:89.73% | ValLoss:0.3455 ValAcc:87.52%
+[D1_NoWD] Epoch: 6 TrLoss:0.2624 TrAcc:90.24% | ValLoss:0.3574 ValAcc:87.28%
+[D1_NoWD] Epoch: 7 TrLoss:0.2472 TrAcc:90.71% | ValLoss:0.3237 ValAcc:88.52%
+[D1_NoWD] Epoch: 8 TrLoss:0.2318 TrAcc:91.35% | ValLoss:0.3171 ValAcc:88.98%
+[D1_NoWD] Epoch: 9 TrLoss:0.2189 TrAcc:91.81% | ValLoss:0.3285 ValAcc:88.08%
+
+[D1_NoWD] Epoch:10 TrLoss:0.2080 TrAcc:92.18% | ValLoss:0.3275 ValAcc:88.68%
+[D1_NoWD] Epoch:11 TrLoss:0.1976 TrAcc:92.51% | ValLoss:0.3124 ValAcc:89.20%
+[D1_NoWD] Epoch:12 TrLoss:0.1896 TrAcc:93.03% | ValLoss:0.3275 ValAcc:88.86%
+[D1_NoWD] Epoch:13 TrLoss:0.1784 TrAcc:93.27% | ValLoss:0.3288 ValAcc:89.00%
+[D1_NoWD] Epoch:14 TrLoss:0.1697 TrAcc:93.58% | ValLoss:0.3337 ValAcc:88.78%
+[D1_NoWD] Epoch:15 TrLoss:0.1620 TrAcc:93.87% | ValLoss:0.3618 ValAcc:88.44%
+[D1_NoWD] Epoch:16 TrLoss:0.1553 TrAcc:94.16% | ValLoss:0.3522 ValAcc:88.48%
+[D1_NoWD] Epoch:17 TrLoss:0.1479 TrAcc:94.41% | ValLoss:0.3593 ValAcc:89.06%
+[D1_NoWD] Epoch:18 TrLoss:0.1428 TrAcc:94.65% | ValLoss:0.3825 ValAcc:88.12%
+[D1_NoWD] Epoch:19 TrLoss:0.1353 TrAcc:94.96% | ValLoss:0.3629 ValAcc:89.14%
+[D1_NoWD] Epoch:20 TrLoss:0.1273 TrAcc:95.16% | ValLoss:0.3834 ValAcc:88.66%
+
+[D1_NoWD] 测试集结果 TestLoss:0.3280 TestAcc:88.44%
+
+[D2_WD1e4] 模型参数量：235146
+[D2_WD1e4] Epoch: 1 TrLoss:0.5384 TrAcc:80.64% | ValLoss:0.4400 ValAcc:84.02%
+[D2_WD1e4] Epoch: 2 TrLoss:0.3663 TrAcc:86.73% | ValLoss:0.3896 ValAcc:85.76%
+[D2_WD1e4] Epoch: 3 TrLoss:0.3273 TrAcc:88.00% | ValLoss:0.3633 ValAcc:86.52%
+[D2_WD1e4] Epoch: 4 TrLoss:0.3006 TrAcc:88.96% | ValLoss:0.3348 ValAcc:87.62%
+[D2_WD1e4] Epoch: 5 TrLoss:0.2804 TrAcc:89.55% | ValLoss:0.3279 ValAcc:87.68%
+[D2_WD1e4] Epoch: 6 TrLoss:0.2638 TrAcc:90.11% | ValLoss:0.3289 ValAcc:87.80%
+[D2_WD1e4] Epoch: 7 TrLoss:0.2505 TrAcc:90.71% | ValLoss:0.3130 ValAcc:88.74%
+[D2_WD1e4] Epoch: 8 TrLoss:0.2355 TrAcc:91.18% | ValLoss:0.3464 ValAcc:87.36%
+[D2_WD1e4] Epoch: 9 TrLoss:0.2252 TrAcc:91.55% | ValLoss:0.3314 ValAcc:88.02%
+[D2_WD1e4] Epoch:10 TrLoss:0.2115 TrAcc:92.05% | ValLoss:0.3241 ValAcc:88.38%
+[D2_WD1e4] Epoch:11 TrLoss:0.2021 TrAcc:92.41% | ValLoss:0.3561 ValAcc:87.90%
+[D2_WD1e4] Epoch:12 TrLoss:0.1940 TrAcc:92.77% | ValLoss:0.3583 ValAcc:87.60%
+[D2_WD1e4] Epoch:13 TrLoss:0.1828 TrAcc:93.23% | ValLoss:0.3382 ValAcc:88.16%
+[D2_WD1e4] Epoch:14 TrLoss:0.1762 TrAcc:93.31% | ValLoss:0.3552 ValAcc:88.46%
+[D2_WD1e4] Epoch:15 TrLoss:0.1676 TrAcc:93.71% | ValLoss:0.3335 ValAcc:88.34%
+[D2_WD1e4] Epoch:16 TrLoss:0.1655 TrAcc:93.72% | ValLoss:0.3286 ValAcc:88.88%
+[D2_WD1e4] Epoch:17 TrLoss:0.1544 TrAcc:94.25% | ValLoss:0.3313 ValAcc:88.30%
+[D2_WD1e4] Epoch:18 TrLoss:0.1487 TrAcc:94.46% | ValLoss:0.3413 ValAcc:88.44%
+[D2_WD1e4] Epoch:19 TrLoss:0.1410 TrAcc:94.74% | ValLoss:0.3505 ValAcc:88.80%
+[D2_WD1e4] Epoch:20 TrLoss:0.1354 TrAcc:94.86% | ValLoss:0.3462 ValAcc:89.00%
+
+[D2_WD1e4] 测试集结果 TestLoss:0.3569 TestAcc:88.99%
+
+[D3_WD1e3] 模型参数量：235146
+[D3_WD1e3] Epoch: 1 TrLoss:0.5376 TrAcc:80.68% | ValLoss:0.4446 ValAcc:84.22%
+[D3_WD1e3] Epoch: 2 TrLoss:0.3768 TrAcc:86.25% | ValLoss:0.3653 ValAcc:87.00%
+[D3_WD1e3] Epoch: 3 TrLoss:0.3335 TrAcc:87.66% | ValLoss:0.3556 ValAcc:86.96%
+[D3_WD1e3] Epoch: 4 TrLoss:0.3112 TrAcc:88.37% | ValLoss:0.3788 ValAcc:86.42%
+[D3_WD1e3] Epoch: 5 TrLoss:0.2946 TrAcc:89.21% | ValLoss:0.3439 ValAcc:87.86%
+[D3_WD1e3] Epoch: 6 TrLoss:0.2793 TrAcc:89.60% | ValLoss:0.3593 ValAcc:86.68%
+[D3_WD1e3] Epoch: 7 TrLoss:0.2692 TrAcc:90.00% | ValLoss:0.3227 ValAcc:88.08%
+[D3_WD1e3] Epoch: 8 TrLoss:0.2603 TrAcc:90.46% | ValLoss:0.3606 ValAcc:86.84%
+[D3_WD1e3] Epoch: 9 TrLoss:0.2520 TrAcc:90.66% | ValLoss:0.3325 ValAcc:88.02%
+[D3_WD1e3] Epoch:10 TrLoss:0.2452 TrAcc:90.91% | ValLoss:0.3116 ValAcc:88.50%
+[D3_WD1e3] Epoch:11 TrLoss:0.2375 TrAcc:91.28% | ValLoss:0.3236 ValAcc:88.00%
+[D3_WD1e3] Epoch:12 TrLoss:0.2321 TrAcc:91.34% | ValLoss:0.3130 ValAcc:88.66%
+[D3_WD1e3] Epoch:13 TrLoss:0.2281 TrAcc:91.65% | ValLoss:0.3122 ValAcc:88.18%
+[D3_WD1e3] Epoch:14 TrLoss:0.2224 TrAcc:91.78% | ValLoss:0.3452 ValAcc:87.42%
+[D3_WD1e3] Epoch:15 TrLoss:0.2186 TrAcc:91.84% | ValLoss:0.3208 ValAcc:88.20%
+[D3_WD1e3] Epoch:16 TrLoss:0.2126 TrAcc:91.98% | ValLoss:0.3209 ValAcc:87.88%
+[D3_WD1e3] Epoch:17 TrLoss:0.2116 TrAcc:92.12% | ValLoss:0.3124 ValAcc:88.30%
+[D3_WD1e3] Epoch:18 TrLoss:0.2065 TrAcc:92.34% | ValLoss:0.3073 ValAcc:88.78%
+[D3_WD1e3] Epoch:19 TrLoss:0.2058 TrAcc:92.26% | ValLoss:0.3206 ValAcc:88.42%
+[D3_WD1e3] Epoch:20 TrLoss:0.2010 TrAcc:92.57% | ValLoss:0.3353 ValAcc:87.68%
+
+[D3_WD1e3] 测试集结果 TestLoss:0.3203 TestAcc:88.86%
+
+[E1_NoEarlyStop] 模型参数量：235146
+[E1_NoEarlyStop] Epoch: 1 TrLoss:0.5362 TrAcc:80.60% | ValLoss:0.4072 ValAcc:85.24%
+[E1_NoEarlyStop] Epoch: 2 TrLoss:0.3678 TrAcc:86.56% | ValLoss:0.3681 ValAcc:86.72%
+[E1_NoEarlyStop] Epoch: 3 TrLoss:0.3239 TrAcc:88.00% | ValLoss:0.3607 ValAcc:86.78%
+[E1_NoEarlyStop] Epoch: 4 TrLoss:0.2980 TrAcc:88.90% | ValLoss:0.3341 ValAcc:87.60%
+[E1_NoEarlyStop] Epoch: 5 TrLoss:0.2754 TrAcc:89.80% | ValLoss:0.3436 ValAcc:86.86%
+[E1_NoEarlyStop] Epoch: 6 TrLoss:0.2603 TrAcc:90.31% | ValLoss:0.3590 ValAcc:87.02%
+[E1_NoEarlyStop] Epoch: 7 TrLoss:0.2456 TrAcc:90.68% | ValLoss:0.3250 ValAcc:88.04%
+[E1_NoEarlyStop] Epoch: 8 TrLoss:0.2318 TrAcc:91.28% | ValLoss:0.3105 ValAcc:88.78%
+[E1_NoEarlyStop] Epoch: 9 TrLoss:0.2189 TrAcc:91.71% | ValLoss:0.3235 ValAcc:88.28%
+[E1_NoEarlyStop] Epoch:10 TrLoss:0.2073 TrAcc:92.34% | ValLoss:0.3132 ValAcc:88.86%
+[E1_NoEarlyStop] Epoch:11 TrLoss:0.1980 TrAcc:92.70% | ValLoss:0.3184 ValAcc:88.38%
+[E1_NoEarlyStop] Epoch:12 TrLoss:0.1905 TrAcc:92.75% | ValLoss:0.3230 ValAcc:88.84%
+[E1_NoEarlyStop] Epoch:13 TrLoss:0.1791 TrAcc:93.17% | ValLoss:0.3403 ValAcc:88.06%
+[E1_NoEarlyStop] Epoch:14 TrLoss:0.1686 TrAcc:93.65% | ValLoss:0.3137 ValAcc:89.06%
+[E1_NoEarlyStop] Epoch:15 TrLoss:0.1639 TrAcc:93.93% | ValLoss:0.3240 ValAcc:89.02%
+[E1_NoEarlyStop] Epoch:16 TrLoss:0.1571 TrAcc:94.05% | ValLoss:0.3406 ValAcc:88.44%
+[E1_NoEarlyStop] Epoch:17 TrLoss:0.1505 TrAcc:94.24% | ValLoss:0.3576 ValAcc:88.58%
+[E1_NoEarlyStop] Epoch:18 TrLoss:0.1430 TrAcc:94.60% | ValLoss:0.3428 ValAcc:89.10%
+[E1_NoEarlyStop] Epoch:19 TrLoss:0.1396 TrAcc:94.66% | ValLoss:0.3377 ValAcc:88.98%
+[E1_NoEarlyStop] Epoch:20 TrLoss:0.1314 TrAcc:94.99% | ValLoss:0.3484 ValAcc:89.40%
+
+[E1_NoEarlyStop] 测试集结果 TestLoss:0.3821 TestAcc:88.99%
+
+[E2_EarlyStop_patience3] 模型参数量：235146
+[E2_EarlyStop_patience3] Epoch: 1 TrLoss:0.5310 TrAcc:80.92% | ValLoss:0.4094 ValAcc:85.32%
+[E2_EarlyStop_patience3] Epoch: 2 TrLoss:0.3633 TrAcc:86.68% | ValLoss:0.3855 ValAcc:85.78%
+[E2_EarlyStop_patience3] Early stopping at epoch 3
+
+[E2_EarlyStop_patience3] 测试集结果 TestLoss:0.3558 TestAcc:87.46%
+
+[F1_NoReg] 模型参数量：235146
+[F1_NoReg] Epoch: 1 TrLoss:0.5315 TrAcc:80.81% | ValLoss:0.4378 ValAcc:84.52%
+[F1_NoReg] Epoch: 2 TrLoss:0.3673 TrAcc:86.56% | ValLoss:0.3853 ValAcc:85.52%
+[F1_NoReg] Epoch: 3 TrLoss:0.3233 TrAcc:88.15% | ValLoss:0.3429 ValAcc:87.60%
+[F1_NoReg] Epoch: 4 TrLoss:0.2977 TrAcc:88.94% | ValLoss:0.3256 ValAcc:88.08%
+[F1_NoReg] Epoch: 5 TrLoss:0.2761 TrAcc:89.79% | ValLoss:0.3276 ValAcc:88.44%
+[F1_NoReg] Epoch: 6 TrLoss:0.2587 TrAcc:90.34% | ValLoss:0.3227 ValAcc:88.08%
+[F1_NoReg] Epoch: 7 TrLoss:0.2435 TrAcc:90.97% | ValLoss:0.3206 ValAcc:88.66%
+[F1_NoReg] Epoch: 8 TrLoss:0.2319 TrAcc:91.35% | ValLoss:0.3123 ValAcc:88.62%
+[F1_NoReg] Epoch: 9 TrLoss:0.2210 TrAcc:91.72% | ValLoss:0.3102 ValAcc:88.64%
+[F1_NoReg] Epoch:10 TrLoss:0.2081 TrAcc:92.07% | ValLoss:0.3302 ValAcc:88.84%
+[F1_NoReg] Epoch:11 TrLoss:0.1988 TrAcc:92.55% | ValLoss:0.3358 ValAcc:88.22%
+[F1_NoReg] Epoch:12 TrLoss:0.1888 TrAcc:92.86% | ValLoss:0.3418 ValAcc:88.22%
+[F1_NoReg] Epoch:13 TrLoss:0.1812 TrAcc:93.26% | ValLoss:0.3187 ValAcc:89.16%
+[F1_NoReg] Epoch:14 TrLoss:0.1705 TrAcc:93.55% | ValLoss:0.3271 ValAcc:88.84%
+[F1_NoReg] Epoch:15 TrLoss:0.1615 TrAcc:93.84% | ValLoss:0.3285 ValAcc:89.00%
+[F1_NoReg] Epoch:16 TrLoss:0.1513 TrAcc:94.26% | ValLoss:0.3489 ValAcc:88.84%
+[F1_NoReg] Epoch:17 TrLoss:0.1480 TrAcc:94.35% | ValLoss:0.3652 ValAcc:88.68%
+[F1_NoReg] Epoch:18 TrLoss:0.1422 TrAcc:94.73% | ValLoss:0.3553 ValAcc:88.54%
+[F1_NoReg] Epoch:19 TrLoss:0.1334 TrAcc:95.02% | ValLoss:0.4014 ValAcc:88.42%
+[F1_NoReg] Epoch:20 TrLoss:0.1284 TrAcc:95.09% | ValLoss:0.3819 ValAcc:89.34%
+
+[F1_NoReg] 测试集结果 TestLoss:0.4024 TestAcc:88.96%
+
+[F2_Dropout02] 模型参数量：235146
+[F2_Dropout02] Epoch: 1 TrLoss:0.5790 TrAcc:79.08% | ValLoss:0.4243 ValAcc:84.66%
+[F2_Dropout02] Epoch: 2 TrLoss:0.4069 TrAcc:85.37% | ValLoss:0.3953 ValAcc:85.74%
+[F2_Dropout02] Epoch: 3 TrLoss:0.3658 TrAcc:86.82% | ValLoss:0.3649 ValAcc:86.68%
+[F2_Dropout02] Epoch: 4 TrLoss:0.3393 TrAcc:87.64% | ValLoss:0.3487 ValAcc:87.46%
+[F2_Dropout02] Epoch: 5 TrLoss:0.3206 TrAcc:88.33% | ValLoss:0.3258 ValAcc:88.26%
+[F2_Dropout02] Epoch: 6 TrLoss:0.3046 TrAcc:88.92% | ValLoss:0.3294 ValAcc:87.60%
+[F2_Dropout02] Epoch: 7 TrLoss:0.2919 TrAcc:89.25% | ValLoss:0.3281 ValAcc:88.32%
+[F2_Dropout02] Epoch: 8 TrLoss:0.2825 TrAcc:89.45% | ValLoss:0.3233 ValAcc:88.36%
+[F2_Dropout02] Epoch: 9 TrLoss:0.2702 TrAcc:90.11% | ValLoss:0.3229 ValAcc:88.34%
+[F2_Dropout02] Epoch:10 TrLoss:0.2588 TrAcc:90.41% | ValLoss:0.3118 ValAcc:88.86%
+[F2_Dropout02] Epoch:11 TrLoss:0.2567 TrAcc:90.45% | ValLoss:0.3294 ValAcc:88.48%
+[F2_Dropout02] Epoch:12 TrLoss:0.2484 TrAcc:90.71% | ValLoss:0.3071 ValAcc:88.80%
+[F2_Dropout02] Epoch:13 TrLoss:0.2392 TrAcc:91.08% | ValLoss:0.3164 ValAcc:88.54%
+[F2_Dropout02] Epoch:14 TrLoss:0.2367 TrAcc:91.14% | ValLoss:0.3091 ValAcc:88.94%
+[F2_Dropout02] Epoch:15 TrLoss:0.2277 TrAcc:91.42% | ValLoss:0.3168 ValAcc:88.78%
+[F2_Dropout02] Epoch:16 TrLoss:0.2205 TrAcc:91.81% | ValLoss:0.3083 ValAcc:88.90%
+[F2_Dropout02] Epoch:17 TrLoss:0.2182 TrAcc:91.76% | ValLoss:0.3256 ValAcc:88.74%
+[F2_Dropout02] Epoch:18 TrLoss:0.2114 TrAcc:92.06% | ValLoss:0.3218 ValAcc:88.46%
+[F2_Dropout02] Epoch:19 TrLoss:0.2092 TrAcc:92.16% | ValLoss:0.3115 ValAcc:89.02%
+[F2_Dropout02] Epoch:20 TrLoss:0.2018 TrAcc:92.38% | ValLoss:0.2973 ValAcc:89.42%
+
+[F2_Dropout02] 测试集结果 TestLoss:0.3144 TestAcc:89.16%
+
+[F3_WD1e4] 模型参数量：235146
+[F3_WD1e4] Epoch: 1 TrLoss:0.5326 TrAcc:81.03% | ValLoss:0.4265 ValAcc:84.28%
+[F3_WD1e4] Epoch: 2 TrLoss:0.3676 TrAcc:86.47% | ValLoss:0.3729 ValAcc:86.40%
+[F3_WD1e4] Epoch: 3 TrLoss:0.3266 TrAcc:87.83% | ValLoss:0.3595 ValAcc:86.88%
+[F3_WD1e4] Epoch: 4 TrLoss:0.2960 TrAcc:89.07% | ValLoss:0.3308 ValAcc:87.90%
+[F3_WD1e4] Epoch: 5 TrLoss:0.2787 TrAcc:89.61% | ValLoss:0.3457 ValAcc:87.22%
+[F3_WD1e4] Epoch: 6 TrLoss:0.2620 TrAcc:90.19% | ValLoss:0.3255 ValAcc:88.42%
+[F3_WD1e4] Epoch: 7 TrLoss:0.2485 TrAcc:90.62% | ValLoss:0.3240 ValAcc:88.44%
+[F3_WD1e4] Epoch: 8 TrLoss:0.2358 TrAcc:91.22% | ValLoss:0.3309 ValAcc:88.32%
+[F3_WD1e4] Epoch: 9 TrLoss:0.2230 TrAcc:91.61% | ValLoss:0.3301 ValAcc:88.34%
+[F3_WD1e4] Epoch:10 TrLoss:0.2100 TrAcc:92.18% | ValLoss:0.3245 ValAcc:88.26%
+[F3_WD1e4] Epoch:11 TrLoss:0.1992 TrAcc:92.56% | ValLoss:0.3268 ValAcc:88.62%
+[F3_WD1e4] Epoch:12 TrLoss:0.1920 TrAcc:92.79% | ValLoss:0.3013 ValAcc:89.08%
+[F3_WD1e4] Epoch:13 TrLoss:0.1832 TrAcc:93.04% | ValLoss:0.3325 ValAcc:88.76%
+[F3_WD1e4] Epoch:14 TrLoss:0.1763 TrAcc:93.39% | ValLoss:0.3218 ValAcc:88.80%
+[F3_WD1e4] Epoch:15 TrLoss:0.1707 TrAcc:93.55% | ValLoss:0.3372 ValAcc:88.92%
+[F3_WD1e4] Epoch:16 TrLoss:0.1583 TrAcc:94.03% | ValLoss:0.3369 ValAcc:88.28%
+[F3_WD1e4] Epoch:17 TrLoss:0.1579 TrAcc:94.13% | ValLoss:0.3331 ValAcc:89.54%
+[F3_WD1e4] Epoch:18 TrLoss:0.1501 TrAcc:94.39% | ValLoss:0.3449 ValAcc:88.44%
+[F3_WD1e4] Epoch:19 TrLoss:0.1433 TrAcc:94.63% | ValLoss:0.3474 ValAcc:89.28%
+[F3_WD1e4] Epoch:20 TrLoss:0.1367 TrAcc:94.81% | ValLoss:0.3408 ValAcc:89.02%
+
+[F3_WD1e4] 测试集结果 TestLoss:0.3511 TestAcc:89.00%
+
+[F4_Dropout02_WD1e4] 模型参数量：235146
+[F4_Dropout02_WD1e4] Epoch: 1 TrLoss:0.5789 TrAcc:78.93% | ValLoss:0.4433 ValAcc:83.54%
+[F4_Dropout02_WD1e4] Epoch: 2 TrLoss:0.4045 TrAcc:85.45% | ValLoss:0.3996 ValAcc:85.12%
+[F4_Dropout02_WD1e4] Epoch: 3 TrLoss:0.3637 TrAcc:86.72% | ValLoss:0.3651 ValAcc:86.66%
+[F4_Dropout02_WD1e4] Epoch: 4 TrLoss:0.3435 TrAcc:87.43% | ValLoss:0.3604 ValAcc:87.04%
+[F4_Dropout02_WD1e4] Epoch: 5 TrLoss:0.3200 TrAcc:88.31% | ValLoss:0.3578 ValAcc:86.64%
+[F4_Dropout02_WD1e4] Epoch: 6 TrLoss:0.3056 TrAcc:88.75% | ValLoss:0.3329 ValAcc:87.90%
+[F4_Dropout02_WD1e4] Epoch: 7 TrLoss:0.2965 TrAcc:89.03% | ValLoss:0.3309 ValAcc:88.32%
+[F4_Dropout02_WD1e4] Epoch: 8 TrLoss:0.2844 TrAcc:89.49% | ValLoss:0.3150 ValAcc:88.42%
+[F4_Dropout02_WD1e4] Epoch: 9 TrLoss:0.2725 TrAcc:89.92% | ValLoss:0.3194 ValAcc:88.68%
+[F4_Dropout02_WD1e4] Epoch:10 TrLoss:0.2662 TrAcc:90.18% | ValLoss:0.3152 ValAcc:88.96%
+[F4_Dropout02_WD1e4] Epoch:11 TrLoss:0.2576 TrAcc:90.32% | ValLoss:0.3250 ValAcc:88.48%
+[F4_Dropout02_WD1e4] Epoch:12 TrLoss:0.2518 TrAcc:90.66% | ValLoss:0.3129 ValAcc:88.60%
+[F4_Dropout02_WD1e4] Epoch:13 TrLoss:0.2411 TrAcc:91.01% | ValLoss:0.3009 ValAcc:89.22%
+[F4_Dropout02_WD1e4] Epoch:14 TrLoss:0.2374 TrAcc:91.23% | ValLoss:0.2996 ValAcc:89.30%
+[F4_Dropout02_WD1e4] Epoch:15 TrLoss:0.2310 TrAcc:91.29% | ValLoss:0.2979 ValAcc:89.44%
+[F4_Dropout02_WD1e4] Epoch:16 TrLoss:0.2256 TrAcc:91.59% | ValLoss:0.3007 ValAcc:88.84%
+[F4_Dropout02_WD1e4] Epoch:17 TrLoss:0.2207 TrAcc:91.79% | ValLoss:0.2950 ValAcc:89.24%
+[F4_Dropout02_WD1e4] Epoch:18 TrLoss:0.2183 TrAcc:91.75% | ValLoss:0.3050 ValAcc:89.20%
+[F4_Dropout02_WD1e4] Epoch:19 TrLoss:0.2120 TrAcc:92.07% | ValLoss:0.3008 ValAcc:89.10%
+[F4_Dropout02_WD1e4] Epoch:20 TrLoss:0.2053 TrAcc:92.22% | ValLoss:0.3053 ValAcc:89.26%
+
+[F4_Dropout02_WD1e4] 测试集结果 TestLoss:0.3080 TestAcc:88.97%
+
+[F5_AllReg] 模型参数量：235146
+[F5_AllReg] Epoch: 1 TrLoss:0.5895 TrAcc:78.69% | ValLoss:0.4238 ValAcc:84.48%
+[F5_AllReg] Epoch: 2 TrLoss:0.4023 TrAcc:85.36% | ValLoss:0.3886 ValAcc:85.56%
+[F5_AllReg] Early stopping at epoch 3
+
+[F5_AllReg] 测试集结果 TestLoss:0.3929 TestAcc:85.64%
+
+[G1] 模型参数量：235146
+[G1] Epoch: 1 TrLoss:0.4679 TrAcc:83.08% | ValLoss:0.3887 ValAcc:85.60%
+[G1] Epoch: 2 TrLoss:0.3476 TrAcc:87.19% | ValLoss:0.3632 ValAcc:86.84%
+[G1] Epoch: 3 TrLoss:0.3120 TrAcc:88.43% | ValLoss:0.3545 ValAcc:87.04%
+[G1] Epoch: 4 TrLoss:0.2870 TrAcc:89.30% | ValLoss:0.3237 ValAcc:87.90%
+[G1] Epoch: 5 TrLoss:0.2668 TrAcc:90.02% | ValLoss:0.3381 ValAcc:87.94%
+[G1] Epoch: 6 TrLoss:0.2484 TrAcc:90.59% | ValLoss:0.3300 ValAcc:88.28%
+[G1] Epoch: 7 TrLoss:0.2351 TrAcc:91.21% | ValLoss:0.3372 ValAcc:87.98%
+[G1] Epoch: 8 TrLoss:0.2239 TrAcc:91.53% | ValLoss:0.3221 ValAcc:88.86%
+[G1] Epoch: 9 TrLoss:0.2088 TrAcc:92.18% | ValLoss:0.3397 ValAcc:88.22%
+[G1] Epoch:10 TrLoss:0.1987 TrAcc:92.46% | ValLoss:0.3383 ValAcc:88.38%
+[G1] Epoch:11 TrLoss:0.1870 TrAcc:92.95% | ValLoss:0.3447 ValAcc:88.78%
+[G1] Epoch:12 TrLoss:0.1815 TrAcc:93.13% | ValLoss:0.3476 ValAcc:88.72%
+[G1] Epoch:13 TrLoss:0.1699 TrAcc:93.52% | ValLoss:0.3675 ValAcc:88.32%
+[G1] Epoch:14 TrLoss:0.1633 TrAcc:93.78% | ValLoss:0.3646 ValAcc:89.00%
+[G1] Epoch:15 TrLoss:0.1510 TrAcc:94.33% | ValLoss:0.3556 ValAcc:89.46%
+[G1] Epoch:16 TrLoss:0.1481 TrAcc:94.42% | ValLoss:0.3599 ValAcc:89.34%
+[G1] Epoch:17 TrLoss:0.1429 TrAcc:94.52% | ValLoss:0.3759 ValAcc:89.18%
+[G1] Epoch:18 TrLoss:0.1311 TrAcc:94.91% | ValLoss:0.3907 ValAcc:88.16%
+[G1] Epoch:19 TrLoss:0.1310 TrAcc:94.98% | ValLoss:0.3945 ValAcc:89.20%
+[G1] Epoch:20 TrLoss:0.1308 TrAcc:95.06% | ValLoss:0.3968 ValAcc:89.08%
+
+[G1] 测试集结果 TestLoss:0.3812 TestAcc:89.02%
+
+[G2] 模型参数量：235146
+[G2] Epoch: 1 TrLoss:0.5105 TrAcc:81.41% | ValLoss:0.4039 ValAcc:84.76%
+[G2] Epoch: 2 TrLoss:0.3874 TrAcc:85.75% | ValLoss:0.3584 ValAcc:86.90%
+[G2] Epoch: 3 TrLoss:0.3541 TrAcc:87.14% | ValLoss:0.3542 ValAcc:87.20%
+[G2] Epoch: 4 TrLoss:0.3310 TrAcc:87.82% | ValLoss:0.3527 ValAcc:86.70%
+[G2] Epoch: 5 TrLoss:0.3143 TrAcc:88.38% | ValLoss:0.3548 ValAcc:86.66%
+[G2] Epoch: 6 TrLoss:0.3014 TrAcc:88.83% | ValLoss:0.3503 ValAcc:86.94%
+[G2] Epoch: 7 TrLoss:0.2927 TrAcc:89.08% | ValLoss:0.3326 ValAcc:87.94%
+[G2] Epoch: 8 TrLoss:0.2801 TrAcc:89.53% | ValLoss:0.3400 ValAcc:87.60%
+[G2] Epoch: 9 TrLoss:0.2754 TrAcc:89.77% | ValLoss:0.3211 ValAcc:88.44%
+[G2] Epoch:10 TrLoss:0.2654 TrAcc:90.06% | ValLoss:0.3157 ValAcc:88.62%
+[G2] Epoch:11 TrLoss:0.2557 TrAcc:90.41% | ValLoss:0.3135 ValAcc:88.78%
+[G2] Epoch:12 TrLoss:0.2499 TrAcc:90.57% | ValLoss:0.3116 ValAcc:88.56%
+[G2] Epoch:13 TrLoss:0.2464 TrAcc:90.75% | ValLoss:0.3291 ValAcc:87.72%
+[G2] Epoch:14 TrLoss:0.2390 TrAcc:90.94% | ValLoss:0.3163 ValAcc:89.06%
+[G2] Epoch:15 TrLoss:0.2366 TrAcc:91.04% | ValLoss:0.3283 ValAcc:88.16%
+[G2] Epoch:16 TrLoss:0.2285 TrAcc:91.41% | ValLoss:0.3476 ValAcc:88.46%
+[G2] Epoch:17 TrLoss:0.2234 TrAcc:91.61% | ValLoss:0.3405 ValAcc:88.66%
+[G2] Epoch:18 TrLoss:0.2215 TrAcc:91.52% | ValLoss:0.3256 ValAcc:88.72%
+[G2] Epoch:19 TrLoss:0.2156 TrAcc:91.89% | ValLoss:0.3309 ValAcc:89.36%
+[G2] Epoch:20 TrLoss:0.2122 TrAcc:91.99% | ValLoss:0.3229 ValAcc:88.96%
+
+[G2] 测试集结果 TestLoss:0.3402 TestAcc:88.87%
+
+[G3] 模型参数量：235146
+[G3] Epoch: 1 TrLoss:0.6247 TrAcc:77.42% | ValLoss:0.4457 ValAcc:83.52%
+[G3] Epoch: 2 TrLoss:0.4839 TrAcc:82.70% | ValLoss:0.4037 ValAcc:85.16%
+[G3] Epoch: 3 TrLoss:0.4491 TrAcc:84.23% | ValLoss:0.3811 ValAcc:85.70%
+[G3] Epoch: 4 TrLoss:0.4249 TrAcc:84.86% | ValLoss:0.3718 ValAcc:86.16%
+[G3] Epoch: 5 TrLoss:0.4181 TrAcc:85.25% | ValLoss:0.3626 ValAcc:86.56%
+[G3] Epoch: 6 TrLoss:0.4003 TrAcc:85.64% | ValLoss:0.3630 ValAcc:86.68%
+[G3] Epoch: 7 TrLoss:0.3873 TrAcc:86.18% | ValLoss:0.3515 ValAcc:87.32%
+[G3] Epoch: 8 TrLoss:0.3830 TrAcc:86.28% | ValLoss:0.3439 ValAcc:87.32%
+[G3] Epoch: 9 TrLoss:0.3757 TrAcc:86.41% | ValLoss:0.3549 ValAcc:87.24%
+[G3] Epoch:10 TrLoss:0.3702 TrAcc:86.63% | ValLoss:0.3495 ValAcc:86.92%
+[G3] Epoch:11 TrLoss:0.3635 TrAcc:86.77% | ValLoss:0.3461 ValAcc:87.84%
+[G3] Epoch:12 TrLoss:0.3596 TrAcc:87.04% | ValLoss:0.3507 ValAcc:87.46%
+[G3] Epoch:13 TrLoss:0.3586 TrAcc:87.06% | ValLoss:0.3462 ValAcc:87.24%
+[G3] Epoch:14 TrLoss:0.3566 TrAcc:87.06% | ValLoss:0.3413 ValAcc:88.00%
+[G3] Epoch:15 TrLoss:0.3493 TrAcc:87.43% | ValLoss:0.3641 ValAcc:86.62%
+[G3] Epoch:16 TrLoss:0.3444 TrAcc:87.47% | ValLoss:0.3408 ValAcc:87.90%
+[G3] Epoch:17 TrLoss:0.3450 TrAcc:87.55% | ValLoss:0.3511 ValAcc:87.54%
+[G3] Epoch:18 TrLoss:0.3383 TrAcc:87.64% | ValLoss:0.3295 ValAcc:88.22%
+[G3] Epoch:19 TrLoss:0.3347 TrAcc:87.90% | ValLoss:0.3387 ValAcc:87.70%
+[G3] Epoch:20 TrLoss:0.3348 TrAcc:87.84% | ValLoss:0.3416 ValAcc:87.32%
+
+[G3] 测试集结果 TestLoss:0.3378 TestAcc:88.01%
+
+[G4] 模型参数量：235146
+[G4] Epoch: 1 TrLoss:0.5360 TrAcc:81.10% | ValLoss:0.5292 ValAcc:82.34%
+[G4] Epoch: 2 TrLoss:0.4382 TrAcc:84.69% | ValLoss:0.4533 ValAcc:85.04%
+[G4] Epoch: 3 TrLoss:0.4121 TrAcc:85.58% | ValLoss:0.4498 ValAcc:84.98%
+[G4] Epoch: 4 TrLoss:0.3912 TrAcc:86.23% | ValLoss:0.4611 ValAcc:86.02%
+[G4] Epoch: 5 TrLoss:0.3865 TrAcc:86.63% | ValLoss:0.4533 ValAcc:85.50%
+[G4] Epoch: 6 TrLoss:0.3952 TrAcc:86.62% | ValLoss:0.4959 ValAcc:84.74%
+[G4] Epoch: 7 TrLoss:0.3820 TrAcc:87.11% | ValLoss:0.4481 ValAcc:85.46%
+[G4] Epoch: 8 TrLoss:0.3603 TrAcc:87.33% | ValLoss:0.4561 ValAcc:85.48%
+[G4] Epoch: 9 TrLoss:0.3591 TrAcc:87.48% | ValLoss:0.4522 ValAcc:84.50%
+[G4] Epoch:10 TrLoss:0.3554 TrAcc:87.66% | ValLoss:0.4545 ValAcc:85.00%
+[G4] Epoch:11 TrLoss:0.3556 TrAcc:87.59% | ValLoss:0.4369 ValAcc:85.76%
+[G4] Epoch:12 TrLoss:0.3515 TrAcc:87.71% | ValLoss:0.4957 ValAcc:85.32%
+[G4] Epoch:13 TrLoss:0.3439 TrAcc:87.77% | ValLoss:0.5134 ValAcc:83.80%
+[G4] Epoch:14 TrLoss:0.3423 TrAcc:87.94% | ValLoss:0.4417 ValAcc:85.72%
+[G4] Epoch:15 TrLoss:0.3403 TrAcc:88.18% | ValLoss:0.4313 ValAcc:86.28%
+[G4] Epoch:16 TrLoss:0.3550 TrAcc:88.05% | ValLoss:0.4705 ValAcc:85.20%
+[G4] Epoch:17 TrLoss:0.3538 TrAcc:88.02% | ValLoss:0.4898 ValAcc:86.50%
+[G4] Epoch:18 TrLoss:0.3421 TrAcc:88.19% | ValLoss:0.4627 ValAcc:86.10%
+[G4] Epoch:19 TrLoss:0.3365 TrAcc:88.22% | ValLoss:0.4224 ValAcc:87.08%
+[G4] Epoch:20 TrLoss:0.3265 TrAcc:88.63% | ValLoss:0.4539 ValAcc:85.80%
+
+[G4] 测试集结果 TestLoss:0.4289 TestAcc:86.30%
+
+[G5] 模型参数量：235146
+[G5] Epoch: 1 TrLoss:0.7078 TrAcc:75.94% | ValLoss:0.5426 ValAcc:81.62%
+[G5] Epoch: 2 TrLoss:0.6419 TrAcc:78.27% | ValLoss:0.5465 ValAcc:81.98%
+[G5] Epoch: 3 TrLoss:0.6186 TrAcc:79.71% | ValLoss:0.5397 ValAcc:82.36%
+[G5] Epoch: 4 TrLoss:0.6115 TrAcc:79.55% | ValLoss:0.5706 ValAcc:80.84%
+[G5] Epoch: 5 TrLoss:0.6143 TrAcc:79.67% | ValLoss:0.5259 ValAcc:82.14%
+[G5] Epoch: 6 TrLoss:0.6065 TrAcc:80.13% | ValLoss:0.5622 ValAcc:82.92%
+[G5] Epoch: 7 TrLoss:0.5902 TrAcc:80.14% | ValLoss:0.5154 ValAcc:84.38%
+[G5] Epoch: 8 TrLoss:0.5711 TrAcc:81.01% | ValLoss:0.4916 ValAcc:84.42%
+[G5] Epoch: 9 TrLoss:0.5752 TrAcc:81.04% | ValLoss:0.5711 ValAcc:81.96%
+[G5] Epoch:10 TrLoss:0.5902 TrAcc:80.40% | ValLoss:0.5518 ValAcc:82.10%
+[G5] Epoch:11 TrLoss:0.6135 TrAcc:80.06% | ValLoss:0.5858 ValAcc:79.72%
+[G5] Epoch:12 TrLoss:0.6088 TrAcc:79.89% | ValLoss:0.6099 ValAcc:80.70%
+[G5] Epoch:13 TrLoss:0.5975 TrAcc:80.12% | ValLoss:0.5137 ValAcc:82.46%
+[G5] Epoch:14 TrLoss:0.5874 TrAcc:80.41% | ValLoss:0.4972 ValAcc:84.04%
+[G5] Epoch:15 TrLoss:0.5698 TrAcc:80.88% | ValLoss:0.4891 ValAcc:83.96%
+[G5] Epoch:16 TrLoss:0.5749 TrAcc:80.70% | ValLoss:0.4983 ValAcc:84.00%
+[G5] Epoch:17 TrLoss:0.5709 TrAcc:81.05% | ValLoss:0.4960 ValAcc:81.58%
+[G5] Epoch:18 TrLoss:0.5614 TrAcc:81.21% | ValLoss:0.5199 ValAcc:82.70%
+[G5] Epoch:19 TrLoss:0.5717 TrAcc:80.93% | ValLoss:0.4833 ValAcc:84.52%
+[G5] Epoch:20 TrLoss:0.5526 TrAcc:81.30% | ValLoss:0.5498 ValAcc:82.24%
+
+[G5] 测试集结果 TestLoss:0.4956 TestAcc:84.09%
+
+[G6] 模型参数量：235146
+[G6] Epoch: 1 TrLoss:1.0770 TrAcc:63.06% | ValLoss:0.7174 ValAcc:75.88%
+[G6] Epoch: 2 TrLoss:1.0678 TrAcc:64.36% | ValLoss:0.7211 ValAcc:75.00%
+[G6] Epoch: 3 TrLoss:1.1087 TrAcc:62.25% | ValLoss:0.7493 ValAcc:73.40%
+[G6] Epoch: 4 TrLoss:1.1501 TrAcc:61.50% | ValLoss:0.7620 ValAcc:72.08%
+[G6] Epoch: 5 TrLoss:1.1340 TrAcc:60.79% | ValLoss:0.7508 ValAcc:74.54%
+[G6] Epoch: 6 TrLoss:1.1799 TrAcc:60.10% | ValLoss:0.8604 ValAcc:67.48%
+[G6] Epoch: 7 TrLoss:1.1819 TrAcc:60.89% | ValLoss:0.8067 ValAcc:68.66%
+[G6] Epoch: 8 TrLoss:1.1467 TrAcc:60.43% | ValLoss:0.7843 ValAcc:70.62%
+[G6] Epoch: 9 TrLoss:1.1659 TrAcc:60.89% | ValLoss:0.8880 ValAcc:66.94%
+[G6] Epoch:10 TrLoss:1.2460 TrAcc:59.13% | ValLoss:0.8733 ValAcc:65.84%
+[G6] Epoch:11 TrLoss:1.2177 TrAcc:58.02% | ValLoss:0.7907 ValAcc:69.26%
+[G6] Epoch:12 TrLoss:1.2227 TrAcc:57.97% | ValLoss:0.8826 ValAcc:65.94%
+[G6] Epoch:13 TrLoss:1.2271 TrAcc:59.88% | ValLoss:0.9442 ValAcc:66.18%
+[G6] Epoch:14 TrLoss:1.2519 TrAcc:58.68% | ValLoss:0.8772 ValAcc:69.04%
+[G6] Epoch:15 TrLoss:1.3059 TrAcc:57.77% | ValLoss:0.9415 ValAcc:64.92%
+[G6] Epoch:16 TrLoss:1.1962 TrAcc:58.92% | ValLoss:0.8165 ValAcc:68.82%
+[G6] Epoch:17 TrLoss:1.1860 TrAcc:59.86% | ValLoss:0.8180 ValAcc:70.76%
+[G6] Epoch:18 TrLoss:1.1862 TrAcc:59.52% | ValLoss:0.8699 ValAcc:68.54%
+[G6] Epoch:19 TrLoss:1.2080 TrAcc:59.73% | ValLoss:0.8323 ValAcc:68.84%
+[G6] Epoch:20 TrLoss:1.1955 TrAcc:60.39% | ValLoss:0.8520 ValAcc:69.88%
+
+[G6] 测试集结果 TestLoss:0.6997 TestAcc:75.56%
+
+[G7] 模型参数量：235146
+[G7] Epoch: 1 TrLoss:5.0151 TrAcc:20.67% | ValLoss:2.3083 ValAcc:10.54%
+[G7] Epoch: 2 TrLoss:2.4340 TrAcc:10.17% | ValLoss:2.3204 ValAcc:8.90%
+[G7] Epoch: 3 TrLoss:2.3145 TrAcc:10.15% | ValLoss:2.3037 ValAcc:10.20%
+[G7] Epoch: 4 TrLoss:2.3110 TrAcc:9.99% | ValLoss:2.3130 ValAcc:8.90%
+[G7] Epoch: 5 TrLoss:2.3112 TrAcc:9.95% | ValLoss:2.3086 ValAcc:8.90%
+[G7] Epoch: 6 TrLoss:2.3116 TrAcc:10.04% | ValLoss:2.3159 ValAcc:9.80%
+[G7] Epoch: 7 TrLoss:2.3120 TrAcc:10.05% | ValLoss:2.3104 ValAcc:9.80%
+[G7] Epoch: 8 TrLoss:2.3121 TrAcc:9.98% | ValLoss:2.3067 ValAcc:8.90%
+[G7] Epoch: 9 TrLoss:2.3114 TrAcc:9.87% | ValLoss:2.3114 ValAcc:10.18%
+[G7] Epoch:10 TrLoss:2.3107 TrAcc:9.86% | ValLoss:2.3122 ValAcc:10.18%
+[G7] Epoch:11 TrLoss:2.3120 TrAcc:9.85% | ValLoss:2.3147 ValAcc:9.84%
+[G7] Epoch:12 TrLoss:2.3120 TrAcc:9.90% | ValLoss:2.3082 ValAcc:9.86%
+[G7] Epoch:13 TrLoss:2.3113 TrAcc:9.91% | ValLoss:2.3073 ValAcc:9.86%
+[G7] Epoch:14 TrLoss:2.3112 TrAcc:9.94% | ValLoss:2.3123 ValAcc:9.52%
+[G7] Epoch:15 TrLoss:2.3118 TrAcc:9.96% | ValLoss:2.3082 ValAcc:10.54%
+[G7] Epoch:16 TrLoss:2.3121 TrAcc:9.86% | ValLoss:2.3058 ValAcc:10.96%
+[G7] Epoch:17 TrLoss:2.3123 TrAcc:9.88% | ValLoss:2.3084 ValAcc:8.90%
+[G7] Epoch:18 TrLoss:2.3110 TrAcc:9.95% | ValLoss:2.3177 ValAcc:9.52%
+[G7] Epoch:19 TrLoss:2.3121 TrAcc:9.76% | ValLoss:2.3096 ValAcc:9.80%
+[G7] Epoch:20 TrLoss:2.3115 TrAcc:9.95% | ValLoss:2.3096 ValAcc:10.18%
+
+[G7] 测试集结果 TestLoss:2.3077 TestAcc:10.00%
+
+[G8] 模型参数量：235146
+[G8] Epoch: 1 TrLoss:4.5866 TrAcc:11.25% | ValLoss:2.3160 ValAcc:9.84%
+[G8] Epoch: 2 TrLoss:2.7422 TrAcc:9.95% | ValLoss:2.3183 ValAcc:9.84%
+[G8] Epoch: 3 TrLoss:2.4913 TrAcc:9.73% | ValLoss:2.3105 ValAcc:9.86%
+[G8] Epoch: 4 TrLoss:2.3148 TrAcc:10.26% | ValLoss:2.3172 ValAcc:9.52%
+[G8] Epoch: 5 TrLoss:2.3512 TrAcc:10.02% | ValLoss:2.3075 ValAcc:10.96%
+[G8] Epoch: 6 TrLoss:2.3132 TrAcc:10.18% | ValLoss:2.3109 ValAcc:10.18%
+[G8] Epoch: 7 TrLoss:2.5083 TrAcc:10.10% | ValLoss:2.3060 ValAcc:10.18%
+[G8] Epoch: 8 TrLoss:2.3673 TrAcc:10.20% | ValLoss:2.3083 ValAcc:10.20%
+[G8] Epoch: 9 TrLoss:2.3118 TrAcc:9.99% | ValLoss:2.3206 ValAcc:9.80%
+[G8] Epoch:10 TrLoss:2.3115 TrAcc:9.98% | ValLoss:2.3102 ValAcc:9.84%
+[G8] Epoch:11 TrLoss:2.3114 TrAcc:9.97% | ValLoss:2.3073 ValAcc:10.96%
+[G8] Epoch:12 TrLoss:2.3118 TrAcc:10.06% | ValLoss:2.3103 ValAcc:10.96%
+[G8] Epoch:13 TrLoss:2.3119 TrAcc:9.96% | ValLoss:2.3148 ValAcc:8.90%
+[G8] Epoch:14 TrLoss:2.3112 TrAcc:10.11% | ValLoss:2.3157 ValAcc:9.80%
+[G8] Epoch:15 TrLoss:2.3114 TrAcc:9.92% | ValLoss:2.3141 ValAcc:9.52%
+[G8] Epoch:16 TrLoss:2.3123 TrAcc:9.94% | ValLoss:2.3158 ValAcc:10.20%
+[G8] Epoch:17 TrLoss:2.3118 TrAcc:9.97% | ValLoss:2.3112 ValAcc:10.20%
+[G8] Epoch:18 TrLoss:2.4420 TrAcc:9.69% | ValLoss:2.3117 ValAcc:9.52%
+[G8] Epoch:19 TrLoss:2.4731 TrAcc:9.85% | ValLoss:2.3063 ValAcc:9.80%
+[G8] Epoch:20 TrLoss:2.3146 TrAcc:9.74% | ValLoss:2.3151 ValAcc:10.54%
+
+[G8] 测试集结果 TestLoss:2.3117 TestAcc:10.00%
+
+[G9] 模型参数量：235146
+[G9] Epoch: 1 TrLoss:10.0409 TrAcc:10.78% | ValLoss:2.3147 ValAcc:8.90%
+[G9] Epoch: 2 TrLoss:5.2549 TrAcc:10.01% | ValLoss:2.3103 ValAcc:10.20%
+[G9] Epoch: 3 TrLoss:3.1258 TrAcc:9.81% | ValLoss:2.3132 ValAcc:9.86%
+[G9] Epoch: 4 TrLoss:6.0881 TrAcc:9.78% | ValLoss:2.3194 ValAcc:10.18%
+[G9] Epoch: 5 TrLoss:7.8131 TrAcc:10.11% | ValLoss:2.3099 ValAcc:10.96%
+[G9] Epoch: 6 TrLoss:3.0557 TrAcc:10.00% | ValLoss:2.3065 ValAcc:9.80%
+[G9] Epoch: 7 TrLoss:5.3819 TrAcc:9.99% | ValLoss:2.3063 ValAcc:10.20%
+[G9] Epoch: 8 TrLoss:4.5700 TrAcc:9.95% | ValLoss:2.3245 ValAcc:9.52%
+[G9] Epoch: 9 TrLoss:2.9781 TrAcc:10.18% | ValLoss:2.3064 ValAcc:9.86%
+[G9] Epoch:10 TrLoss:3.5128 TrAcc:9.85% | ValLoss:2.3085 ValAcc:10.18%
+[G9] Epoch:11 TrLoss:2.3292 TrAcc:10.00% | ValLoss:2.3091 ValAcc:10.20%
+[G9] Epoch:12 TrLoss:2.5496 TrAcc:10.15% | ValLoss:2.3162 ValAcc:8.90%
+[G9] Epoch:13 TrLoss:2.3807 TrAcc:9.93% | ValLoss:2.3114 ValAcc:10.96%
+[G9] Epoch:14 TrLoss:2.5942 TrAcc:9.90% | ValLoss:2.3167 ValAcc:9.84%
+[G9] Epoch:15 TrLoss:2.6086 TrAcc:10.24% | ValLoss:2.3110 ValAcc:9.86%
+[G9] Epoch:16 TrLoss:2.3588 TrAcc:10.22% | ValLoss:2.3107 ValAcc:10.54%
+[G9] Epoch:17 TrLoss:2.3114 TrAcc:9.83% | ValLoss:2.3099 ValAcc:10.96%
+[G9] Epoch:18 TrLoss:2.3111 TrAcc:10.09% | ValLoss:2.3136 ValAcc:10.18%
+[G9] Epoch:19 TrLoss:2.3118 TrAcc:9.83% | ValLoss:2.3100 ValAcc:9.80%
+[G9] Epoch:20 TrLoss:2.3123 TrAcc:9.99% | ValLoss:2.3053 ValAcc:8.90%
+
+[G9] 测试集结果 TestLoss:2.3130 TestAcc:10.00%
+
+全部实验完成！结果已保存至 outputs/
+
+进程已结束，退出代码为 0

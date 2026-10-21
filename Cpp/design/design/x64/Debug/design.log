@@ -1,0 +1,4 @@
+﻿  源1.cpp
+D:\Project\Cpp\design\源1.cpp(240,91): warning C4566: 由通用字符名称“\u00B2”表示的字符不能在当前代码页(936)中表示出来
+D:\Project\Cpp\design\源1.cpp(399,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  design.vcxproj -> D:\Project\Cpp\design\x64\Debug\design.exe

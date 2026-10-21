@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\CLanguege\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC8B8AB-A882-4EDC-B78F-2609B355E593}|Project2.vcxproj|D:\\Project\\CLanguege\\Project2\\\u5012\u5E8F.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CC8B8AB-A882-4EDC-B78F-2609B355E593}|Project2.vcxproj|solutionrelative:\u5012\u5E8F.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u5012\u5E8F.c",
+              "DocumentMoniker": "D:\\Project\\CLanguege\\Project2\\\u5012\u5E8F.c",
+              "RelativeDocumentMoniker": "\u5012\u5E8F.c",
+              "ToolTip": "D:\\Project\\CLanguege\\Project2\\\u5012\u5E8F.c*",
+              "RelativeToolTip": "\u5012\u5E8F.c*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-04T16:27:05.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  game.c
+C:\Users\qingj\Desktop\CLanguege\9_18\game.c(15,9): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\qingj\Desktop\CLanguege\9_18\game.c(78,17): warning C4028: 形参 1 与声明不同
+  9_18.vcxproj -> C:\Users\qingj\Desktop\CLanguege\9_18\x64\Debug\9_18.exe

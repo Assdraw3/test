@@ -1,0 +1,4 @@
+﻿  macllo.c
+D:\Project\Cpp\Project2\macllo.c(53,3): warning C4098: “insertElem”:“void”函数返回值
+D:\Project\Cpp\Project2\macllo.c(55,2): warning C4098: “insertElem”:“void”函数返回值
+  Project2.vcxproj -> D:\Project\Cpp\Project2\x64\Debug\Project2.exe

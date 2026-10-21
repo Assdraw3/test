@@ -1,0 +1,14 @@
+{
+    "problem_size": "100x200",
+    "sparsity": 0.1,
+    "mu": 0.1,
+    "rho": 1.0,
+    "admm_recovery_error": 0.13937800780238974,
+    "fista_recovery_error": 0.13938802454843877,
+    "admm_support_recovery": 0.95,
+    "fista_support_recovery": 0.95,
+    "admm_time": 4.727553367614746,
+    "fista_time": 0.00653386116027832,
+    "admm_iterations": 65,
+    "fista_iterations": 279
+}

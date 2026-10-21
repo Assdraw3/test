@@ -1,0 +1,12 @@
+{
+    "problem_size": "100x200",
+    "sparsity": 0.1,
+    "noise_level": 0.01,
+    "mu": 0.1,
+    "recovery_error": 0.13938802454843877,
+    "support_recovery": 0.95,
+    "pg_time": 0.006985902786254883,
+    "fista_time": 0.005082845687866211,
+    "pg_bb_time": 0.0019412040710449219,
+    "fista_bb_time": 0.006639719009399414
+}

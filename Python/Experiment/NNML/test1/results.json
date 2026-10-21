@@ -1,0 +1,22 @@
+{
+  "data": "data_exp1.txt",
+  "vocab_size": 36,
+  "train_samples": 16,
+  "window_size": 3,
+  "embed_dim": 16,
+  "epochs": 100,
+  "results": [
+    {
+      "name": "NNLM(h=64)",
+      "hidden_dim": 64,
+      "final_loss": 0.0678,
+      "ppl": 1.0679
+    },
+    {
+      "name": "Linear（无隐藏层）",
+      "hidden_dim": 0,
+      "final_loss": 0.4424,
+      "ppl": 1.5564
+    }
+  ]
+}

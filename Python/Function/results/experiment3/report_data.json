@@ -1,0 +1,10 @@
+{
+    "problem_size": "100x200",
+    "sparsity": 0.1,
+    "final_mu": 0.00013410686196639628,
+    "final_objective": 4.731417980658644,
+    "final_constraint_violation": 3.4083326592148615,
+    "support_recovery": 0.5,
+    "recovery_error": 0.7615705071578983,
+    "total_time": 0.043669700622558594
+}
